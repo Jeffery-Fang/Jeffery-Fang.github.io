@@ -1,0 +1,1 @@
+.terminalTheme{color:#32cd32;font-family:Ubuntu Mono,monospace;font-weight:300;font-size:14px;background-color:#000;border-color:#000}@keyframes blink{0%{opacity:1}to{opacity:0}}#cursor{width:14px;animation:blink 1s cubic-bezier(1,0,0,1) infinite}#secret{position:relative;bottom:100%;right:100%;background:transparent;border:none;outline:none}
